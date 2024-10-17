@@ -1,0 +1,15 @@
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/bin/Debug/net7.0/Ahmed_Kathem7
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/bin/Debug/net7.0/Ahmed_Kathem7.deps.json
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/bin/Debug/net7.0/Ahmed_Kathem7.runtimeconfig.json
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/bin/Debug/net7.0/Ahmed_Kathem7.dll
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/bin/Debug/net7.0/Ahmed_Kathem7.pdb
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.csproj.AssemblyReference.cache
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.AssemblyInfoInputs.cache
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.AssemblyInfo.cs
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.csproj.CoreCompileInputs.cache
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.dll
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/refint/Ahmed_Kathem7.dll
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.pdb
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/Ahmed_Kathem7.genruntimeconfig.cache
+/Users/ahmedkathem/Projects/AK7 C#/Ahmed_Kathem7/Ahmed_Kathem7/obj/Debug/net7.0/ref/Ahmed_Kathem7.dll
